@@ -137,7 +137,7 @@ How to Run the Dashboard
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ORBITAL-ATLAS.git
+git clone [https://github.com/YOUR_USERNAME/ORBITAL-ATLAS.git](https://renad87.github.io/ORBITAL_ATLAS/)
 
 2. Open the project folder
 
